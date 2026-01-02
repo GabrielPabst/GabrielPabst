@@ -29,3 +29,30 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=GabrielPabst&label=Profile%20Views&color=blue&style=flat" alt="gabriel_pabst" />
 </p>
+
+
+### 🧠 My Digital Brain
+
+```mermaid
+mindmap
+  root((My Brain))
+    Coding
+      ::icon(fa fa-code)
+      Full Stack
+      Open Source
+      System Design
+    Creativity
+      ::icon(fa fa-paint-brush)
+      UI / UX
+      Writing
+      Problem Solving
+    Life
+      ::icon(fa fa-heart)
+      Coffee
+      Travel
+      Gaming
+    Goals
+      ::icon(fa fa-rocket)
+      Learn Rust
+      Build SaaS
+      Sleep More
