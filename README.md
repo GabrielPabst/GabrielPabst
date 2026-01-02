@@ -11,6 +11,7 @@
 - 🔭 I’m currently working on **[EON, Andromeda]**
 - 🌱 I’m currently learning **Python / Java / AI**
 - 💬 Ask me about **Python, Java, Fullstack or Architecture**
+- ⚡ Fun fact: **I use markdown more than any other writing.**
 
 ---
 
@@ -18,7 +19,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,nodejs,express,docker,kubernetes,linux,git,github,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,nodejs,docker,kubernetes,linux,git,github,vscode&perline=8" />
   </a>
 </p>
 
