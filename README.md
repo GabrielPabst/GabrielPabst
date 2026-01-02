@@ -25,8 +25,6 @@
 ---
 
 
----
-
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=GabrielPabst&label=Profile%20Views&color=blue&style=flat" alt="gabriel_pabst" />
 </p>
