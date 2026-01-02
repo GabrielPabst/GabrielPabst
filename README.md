@@ -30,29 +30,6 @@
   <img src="https://komarev.com/ghpvc/?username=GabrielPabst&label=Profile%20Views&color=blue&style=flat" alt="gabriel_pabst" />
 </p>
 
-
-### 🧠 My Digital Brain
-
-```mermaid
-mindmap
-  root((My Brain))
-    Coding
-      ::icon(fa fa-code)
-      Full Stack
-      Open Source
-      System Design
-    Creativity
-      ::icon(fa fa-paint-brush)
-      UI / UX
-      Writing
-      Problem Solving
-    Life
-      ::icon(fa fa-heart)
-      Coffee
-      Travel
-      Gaming
-    Goals
-      ::icon(fa fa-rocket)
-      Learn Rust
-      Build SaaS
-      Sleep More
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielPabst&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" />
+</div>
